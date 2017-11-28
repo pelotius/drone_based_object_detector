@@ -1,0 +1,50 @@
+<annotation>
+	<folder>low res sliced</folder>
+	<filename>DJI_raw_London_032_05.jpg</filename>
+	<path>/Users/edmball/Documents/1UNI/4th Year/Itadori/Training Data/Sliced Images (3x2)/low res sliced/DJI_raw_London_032_05.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1120</width>
+		<height>886</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>482</xmin>
+			<ymin>543</ymin>
+			<xmax>561</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>593</xmin>
+			<ymin>586</ymin>
+			<xmax>687</xmax>
+			<ymax>647</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>679</xmin>
+			<ymin>626</ymin>
+			<xmax>755</xmax>
+			<ymax>672</ymax>
+		</bndbox>
+	</object>
+</annotation>

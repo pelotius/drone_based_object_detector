@@ -1,0 +1,50 @@
+<annotation>
+	<folder>low res sliced</folder>
+	<filename>DJI_raw_London_026_06.jpg</filename>
+	<path>/Users/edmball/Documents/1UNI/4th Year/Itadori/Training Data/Sliced Images (3x2)/low res sliced/DJI_raw_London_026_06.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1120</width>
+		<height>886</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>653</xmin>
+			<ymin>167</ymin>
+			<xmax>1043</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>water</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>78</ymin>
+			<xmax>626</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>water</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>74</ymin>
+			<xmax>154</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>

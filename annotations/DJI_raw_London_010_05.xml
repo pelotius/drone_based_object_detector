@@ -1,0 +1,50 @@
+<annotation>
+	<folder>low res sliced</folder>
+	<filename>DJI_raw_London_010_05.jpg</filename>
+	<path>/Users/edmball/Documents/1UNI/4th Year/Itadori/Training Data/Sliced Images (3x2)/low res sliced/DJI_raw_London_010_05.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1120</width>
+		<height>886</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>789</xmin>
+			<ymin>271</ymin>
+			<xmax>1085</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>343</ymin>
+			<xmax>636</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>355</ymin>
+			<xmax>172</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+</annotation>
